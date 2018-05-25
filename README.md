@@ -2,8 +2,6 @@
 Portfolio management is the art and science of decision-making process about investment for individuals and institutions. This project presents a Reinforcement Learning framework for cryptocurrency portfolio management. Cryptocurrency is a digital decentralized asset. The most well-known example are Bitcoin and Ethereum. To accomplish the same level of performance as a human-trader, agents have to learn for themselves how to create successful biased-free strategies. This work covers different reinforcement learning approaches. The framework is designed using Deterministic Policy Gradient using  Recurrent Neural Networks (RNN). The robustness and feasibility of the system is verified with the market data from Poloniex exchange and compared to the the major portfolio management benchmarks.
 
 
-*Accuracy* - TPR
-
 ####  Backtesting results
 
 | Techniques        | APV           | Sharpe Ratio  | MDD |
@@ -17,4 +15,5 @@ Portfolio management is the art and science of decision-making process about inv
 | DPG-RNN | -0.16 | -0.76 | 0.58 |
 
 Code implementation can be found in .ipynb file
+More details can be found in .pdf file
 
