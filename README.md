@@ -15,5 +15,6 @@ Portfolio management is the art and science of decision-making process about inv
 | DPG-RNN | -0.16 | -0.76 | 0.58 |
 
 Code implementation can be found in .ipynb file
+
 More details can be found in .pdf file
 
