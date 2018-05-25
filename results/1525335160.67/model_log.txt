@@ -1,0 +1,189 @@
+2018-05-03 16:25:53,185 INFO logging with HS = 5
+2018-05-03 16:25:53,190 INFO 
+2018-05-03 16:25:56,395 INFO model basic config
+2018-05-03 16:25:56,397 INFO {"magnification2": 5, "cell_type": "rnn", "lr": 0.001, "transform_size": 8, "model_type": "RNNModel", "dropout": 0.5, "hidden_size": 5, "magnification1": 500}
+2018-05-03 16:25:57,409 INFO Beginning 0_th epoch
+2018-05-03 16:25:57,410 INFO 
+2018-05-03 16:25:58,517 INFO model total growth rate in training data: 0.0552517290667
+2018-05-03 16:25:58,518 INFO 
+2018-05-03 16:25:58,519 INFO Beginning 1_th epoch
+2018-05-03 16:25:58,521 INFO 
+2018-05-03 16:25:59,330 INFO model total growth rate in training data: 0.122249249618
+2018-05-03 16:25:59,332 INFO 
+2018-05-03 16:25:59,333 INFO Beginning 2_th epoch
+2018-05-03 16:25:59,334 INFO 
+2018-05-03 16:26:00,149 INFO model total growth rate in training data: 0.161792523475
+2018-05-03 16:26:00,150 INFO 
+2018-05-03 16:26:00,152 INFO Beginning 3_th epoch
+2018-05-03 16:26:00,153 INFO 
+2018-05-03 16:26:00,961 INFO model total growth rate in training data: 0.185967461411
+2018-05-03 16:26:00,962 INFO 
+2018-05-03 16:26:00,963 INFO Beginning 4_th epoch
+2018-05-03 16:26:00,964 INFO 
+2018-05-03 16:26:01,772 INFO model total growth rate in training data: 0.201172319603
+2018-05-03 16:26:01,773 INFO 
+2018-05-03 16:26:01,774 INFO Beginning 5_th epoch
+2018-05-03 16:26:01,777 INFO 
+2018-05-03 16:26:02,577 INFO model total growth rate in training data: 0.210544920064
+2018-05-03 16:26:02,578 INFO 
+2018-05-03 16:26:02,579 INFO Beginning 6_th epoch
+2018-05-03 16:26:02,580 INFO 
+2018-05-03 16:26:03,623 INFO model total growth rate in training data: 0.21632158216
+2018-05-03 16:26:03,625 INFO 
+2018-05-03 16:26:03,626 INFO Beginning 7_th epoch
+2018-05-03 16:26:03,627 INFO 
+2018-05-03 16:26:04,493 INFO model total growth rate in training data: 0.220019252503
+2018-05-03 16:26:04,494 INFO 
+2018-05-03 16:26:04,496 INFO Beginning 8_th epoch
+2018-05-03 16:26:04,498 INFO 
+2018-05-03 16:26:05,374 INFO model total growth rate in training data: 0.22250139622
+2018-05-03 16:26:05,405 INFO 
+2018-05-03 16:26:05,407 INFO Beginning 9_th epoch
+2018-05-03 16:26:05,409 INFO 
+2018-05-03 16:26:06,434 INFO model total growth rate in training data: 0.224239062657
+2018-05-03 16:26:06,435 INFO 
+2018-05-03 16:26:06,436 INFO Beginning 10_th epoch
+2018-05-03 16:26:06,438 INFO 
+2018-05-03 16:26:07,382 INFO model total growth rate in training data: 0.225498042227
+2018-05-03 16:26:07,383 INFO 
+2018-05-03 16:26:07,384 INFO Beginning 11_th epoch
+2018-05-03 16:26:07,386 INFO 
+2018-05-03 16:26:08,367 INFO model total growth rate in training data: 0.22643579789
+2018-05-03 16:26:08,369 INFO 
+2018-05-03 16:26:08,371 INFO Beginning 12_th epoch
+2018-05-03 16:26:08,374 INFO 
+2018-05-03 16:26:09,682 INFO model total growth rate in training data: 0.227150274678
+2018-05-03 16:26:09,684 INFO 
+2018-05-03 16:26:09,686 INFO Beginning 13_th epoch
+2018-05-03 16:26:09,688 INFO 
+2018-05-03 16:26:10,716 INFO model total growth rate in training data: 0.227704843554
+2018-05-03 16:26:10,718 INFO 
+2018-05-03 16:26:10,724 INFO Beginning 14_th epoch
+2018-05-03 16:26:10,729 INFO 
+2018-05-03 16:26:11,693 INFO model total growth rate in training data: 0.228141903755
+2018-05-03 16:26:11,694 INFO 
+2018-05-03 16:26:11,695 INFO Beginning 15_th epoch
+2018-05-03 16:26:11,697 INFO 
+2018-05-03 16:26:12,585 INFO model total growth rate in training data: 0.22849109999
+2018-05-03 16:26:12,586 INFO 
+2018-05-03 16:26:12,587 INFO Beginning 16_th epoch
+2018-05-03 16:26:12,588 INFO 
+2018-05-03 16:26:13,420 INFO model total growth rate in training data: 0.228773121336
+2018-05-03 16:26:13,421 INFO 
+2018-05-03 16:26:13,422 INFO Beginning 17_th epoch
+2018-05-03 16:26:13,423 INFO 
+2018-05-03 16:26:14,342 INFO model total growth rate in training data: 0.229003169705
+2018-05-03 16:26:14,343 INFO 
+2018-05-03 16:26:14,344 INFO Beginning 18_th epoch
+2018-05-03 16:26:14,346 INFO 
+2018-05-03 16:26:15,323 INFO model total growth rate in training data: 0.229192183032
+2018-05-03 16:26:15,324 INFO 
+2018-05-03 16:26:15,325 INFO Beginning 19_th epoch
+2018-05-03 16:26:15,326 INFO 
+2018-05-03 16:26:16,242 INFO model total growth rate in training data: 0.229348797353
+2018-05-03 16:26:16,243 INFO 
+2018-05-03 16:26:16,244 INFO Beginning 20_th epoch
+2018-05-03 16:26:16,246 INFO 
+2018-05-03 16:26:17,092 INFO model total growth rate in training data: 0.229479211084
+2018-05-03 16:26:17,093 INFO 
+2018-05-03 16:26:17,094 INFO Beginning 21_th epoch
+2018-05-03 16:26:17,096 INFO 
+2018-05-03 16:26:18,043 INFO model total growth rate in training data: 0.229588391302
+2018-05-03 16:26:18,044 INFO 
+2018-05-03 16:26:18,045 INFO Beginning 22_th epoch
+2018-05-03 16:26:18,047 INFO 
+2018-05-03 16:26:18,984 INFO model total growth rate in training data: 0.229680183038
+2018-05-03 16:26:18,985 INFO 
+2018-05-03 16:26:18,986 INFO Beginning 23_th epoch
+2018-05-03 16:26:18,988 INFO 
+2018-05-03 16:26:19,834 INFO model total growth rate in training data: 0.229757708243
+2018-05-03 16:26:19,835 INFO 
+2018-05-03 16:26:19,836 INFO Beginning 24_th epoch
+2018-05-03 16:26:19,838 INFO 
+2018-05-03 16:26:20,718 INFO model total growth rate in training data: 0.229823437509
+2018-05-03 16:26:20,719 INFO 
+2018-05-03 16:26:20,720 INFO Beginning 25_th epoch
+2018-05-03 16:26:20,723 INFO 
+2018-05-03 16:26:21,677 INFO model total growth rate in training data: 0.229879293494
+2018-05-03 16:26:21,678 INFO 
+2018-05-03 16:26:21,681 INFO Beginning 26_th epoch
+2018-05-03 16:26:21,687 INFO 
+2018-05-03 16:26:22,783 INFO model total growth rate in training data: 0.229926936479
+2018-05-03 16:26:22,785 INFO 
+2018-05-03 16:26:22,786 INFO Beginning 27_th epoch
+2018-05-03 16:26:22,789 INFO 
+2018-05-03 16:26:23,796 INFO model total growth rate in training data: 0.229967558581
+2018-05-03 16:26:23,797 INFO 
+2018-05-03 16:26:23,804 INFO Beginning 28_th epoch
+2018-05-03 16:26:23,806 INFO 
+2018-05-03 16:26:24,713 INFO model total growth rate in training data: 0.230002246889
+2018-05-03 16:26:24,714 INFO 
+2018-05-03 16:26:24,716 INFO Beginning 29_th epoch
+2018-05-03 16:26:24,718 INFO 
+2018-05-03 16:26:25,693 INFO model total growth rate in training data: 0.230032000127
+2018-05-03 16:26:25,694 INFO 
+2018-05-03 16:26:25,695 INFO Beginning 30_th epoch
+2018-05-03 16:26:25,697 INFO 
+2018-05-03 16:26:27,079 INFO model total growth rate in training data: 0.230057746713
+2018-05-03 16:26:27,081 INFO 
+2018-05-03 16:26:27,083 INFO Beginning 31_th epoch
+2018-05-03 16:26:27,085 INFO 
+2018-05-03 16:26:28,075 INFO model total growth rate in training data: 0.230079715008
+2018-05-03 16:26:28,076 INFO 
+2018-05-03 16:26:28,078 INFO Beginning 32_th epoch
+2018-05-03 16:26:28,079 INFO 
+2018-05-03 16:26:29,468 INFO model total growth rate in training data: 0.230098591267
+2018-05-03 16:26:29,471 INFO 
+2018-05-03 16:26:29,473 INFO Beginning 33_th epoch
+2018-05-03 16:26:29,475 INFO 
+2018-05-03 16:26:30,627 INFO model total growth rate in training data: 0.230114980521
+2018-05-03 16:26:30,628 INFO 
+2018-05-03 16:26:30,630 INFO Beginning 34_th epoch
+2018-05-03 16:26:30,631 INFO 
+2018-05-03 16:26:31,720 INFO model total growth rate in training data: 0.230129007239
+2018-05-03 16:26:31,725 INFO 
+2018-05-03 16:26:31,729 INFO Beginning 35_th epoch
+2018-05-03 16:26:31,731 INFO 
+2018-05-03 16:26:32,852 INFO model total growth rate in training data: 0.230141092877
+2018-05-03 16:26:32,853 INFO 
+2018-05-03 16:26:32,856 INFO Beginning 36_th epoch
+2018-05-03 16:26:32,858 INFO 
+2018-05-03 16:26:33,830 INFO model total growth rate in training data: 0.230151683353
+2018-05-03 16:26:33,831 INFO 
+2018-05-03 16:26:33,832 INFO Beginning 37_th epoch
+2018-05-03 16:26:33,834 INFO 
+2018-05-03 16:26:35,043 INFO model total growth rate in training data: 0.230160745536
+2018-05-03 16:26:35,044 INFO 
+2018-05-03 16:26:35,047 INFO Beginning 38_th epoch
+2018-05-03 16:26:35,049 INFO 
+2018-05-03 16:26:36,083 INFO model total growth rate in training data: 0.23016856545
+2018-05-03 16:26:36,084 INFO 
+2018-05-03 16:26:36,085 INFO Beginning 39_th epoch
+2018-05-03 16:26:36,086 INFO 
+2018-05-03 16:26:37,044 INFO model total growth rate in training data: 0.23017539252
+2018-05-03 16:26:37,046 INFO 
+2018-05-03 16:26:37,175 INFO dev growth rate: 0.930417757504
+2018-05-03 16:26:37,273 INFO test growth rate: 0.792269425202
+2018-05-03 16:26:37,275 INFO [[ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.00593845]
+ [ 0.88123101]]
+2018-05-03 16:28:06,584 INFO logging with HS = 5
+2018-05-03 16:28:06,585 INFO 
