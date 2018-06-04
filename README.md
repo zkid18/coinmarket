@@ -16,12 +16,12 @@ Portfolio management is the art and science of decision-making process about inv
 
 Code implementation can be found in .ipynb file
 #### Requirments
-⋅⋅* matplotlib 2.0.2
-⋅⋅* numpy 1.13.3
-⋅⋅* pandas 0.20.1
-⋅⋅* pip 9.0.1
-⋅⋅* seaborn 0.8.0
-⋅⋅* sklearn 0.18.1
+* matplotlib 2.0.2
+* numpy 1.13.3
+* pandas 0.20.1
+* pip 9.0.1
+* seaborn 0.8.0
+* sklearn 0.18.1
 Python version: 2.7.13 |Anaconda custom (x86_64)| (default, Dec 20 2016, 23:05:08) 
 [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
 Processor info : Intel(R) Core(TM) i5-5257U CPU @ 2.70GHz
